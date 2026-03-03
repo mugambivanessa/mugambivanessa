@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Vanessa Mugambi 
 
-<!--
-**mugambivanessa/mugambivanessa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Full Stack AI Engineer · Music Business & Technology · Bsc Computer Science & AI Student
 
-Here are some ideas to get you started:
+I build Data systems and AI tools for the music industry.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently: working through 12 music-tech projects in public.
+
+## What I'm Currently Building
+- Thamani Labs — AI automation agency for music industry
+- The Harmonic Interval —  music × tech × science
+
+## Tech Stack
+
+
+## Currently Learning
+- Python data analysis (Pandas, Matplotlib)
+- Spotify Web API
+- Music industry economics
+
+## Links
+
+---
+* Building in public. Every project is a step. 
