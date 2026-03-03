@@ -1,14 +1,18 @@
 # Hi, I'm Vanessa Mugambi 
 
-> Full Stack AI Engineer · Music Business & Technology · Bsc Computer Science & AI Student
+> Music Intelligence Engineer  · Bsc Computer Science & AI Student · Founder @ Thamani Labs Inc.
 
-I build Data systems and AI tools for the music industry.
+I build data systems, AI tools, and intelligence pipelines for the music industry.
 
 Currently: working through 12 music-tech projects in public.
 
 ## What I'm Currently Building
-- Thamani Labs — AI automation agency for music industry
-- The Harmonic Interval —  music × tech × science
+
+- Thamani Labs — AI Engineering for music industry
+- The Harmonic Interval Newsletter —  music × tech × science 
+
+> Project 01 — Spotify Artist Intelligence Dashboard · In Progress
+> Project 02 — Music Genre Classifier · Queued
 
 ## Tech Stack
 
@@ -20,5 +24,4 @@ Currently: working through 12 music-tech projects in public.
 
 ## Links
 
----
-* Building in public. Every project is a step. 
+--- 
