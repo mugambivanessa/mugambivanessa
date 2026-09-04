@@ -1,106 +1,58 @@
-# Hi, I'm Vanessa Mugambi 
+# Hi, I'm Vanessa Mugambi
 
-> Researcher • Analyst • Innovation Strategist  · Bsc Computer Science & AI Student · Founder @ Thamani Labs Inc.
+> Sports Engineer & Researcher · Computer Vision, Biomechanics & Data Analytics in Football · BSc Computer Science & AI · Founder @ Thamani Labs & SSEN
 
-I am a researcher, analyst, and aspiring public-interest product engineer exploring how technology, data, AI, and infrastructure can expand opportunity, strengthen communities, and improve outcomes for women and underserved populations.
-My work focuses on understanding how systems are designed, why they succeed or fail, and how emerging technologies can be applied responsibly to create meaningful social and economic impact.
-I am particularly interested in building technology for communities that are often overlooked by mainstream innovation eg; 
-women athletes, students, researchers, and underserved communities across East Africa.
+I'm a Computer Science with AI student and 14+ year competitive footballer (former U-19 captain) building at the intersection of sports engineering, biomechanics, and data analytics grounded in first-hand understanding of the game most analysts only observe from outside it.
 
-## My work sits at the intersection of:
+My work centers on a gap that's still real, not assumed: only 6% of sports-science research between 2014–2020 focused exclusively on women. I'm building the technical and research tools to help close that:
+computer-vision motion analysis, event-data analytics, and a research practice spanning neuroscience, psychology, biomechanics, reproductive health, and athlete wellness.
 
-- Artificial Intelligence & AI adoption
-- Data Analytics & Business Intelligence
-- Product Engineering
-- Public-Interest Technology
-- Women's Infrastructure
-- Research, Knowledge & Data Systems
-- Digital Transformation & Innovation Strategy
-- Community-Centered Systems Design
+## What I'm Building
 
-## What I'm Currently Building:
+**SSEN** — Sports Science & Entertainment Network, three arms running on one shared intelligence layer:
+- **Tech** — Research and Product Development (Athlete Platform, Para Football Community Platform)
+- **Media** — Podcast, social, video essays, articles
+- **Culture** — Fashion/apparel, events, travel
 
-My long-term goal is to become a leading analyst, innovator, strategist, and public-interest technologist helping shape the future of AI, digital infrastructure, and opportunity systems.
+**Thamani** — the intelligence infrastructure underneath SSEN:
+- **Thamani Labs** — a Research, Innovation & Development lab
+- **Thamani Intelligence** — an applied CS & AI research-retrieval system, built as a custom layer on top of a real knowledge vault
 
-I am doing this through:
-> Thamani Labs : 
-A research, innovation, and systems development initiative exploring how technology, infrastructure, institutions, and emerging technologies can create opportunity and improve outcomes for underserved communities.
+## Currently Working On
 
-## Research Areas:
-I am currently researching:
+- **Markerless motion-capture pipeline** (MediaPipe/OpenCV) for kinematic risk screening, including a knee-valgus/ACL-risk heuristic grounded in published biomechanics literature
+-  **SQL/Python analytics pipeline** (PostgreSQL) on open women's football match data (StatsBomb WSL) — progressive-pass, regain, and workload/fatigue metrics, combined into a composite Player Readiness Index
+-  **Thamani Intelligence** — a retrieval and drafting layer (PostgreSQL + pgvector) over a six-domain research vault
+-  **Public research write-ups** on female athlete science, published as I go
 
-- Women's Sports Infrastructure in East Africa
-- AI for Opportunity Discovery
-- AI Adoption & Governance
-- Responsible AI for Underrepresented Communities
-- Data Visibility & Social Equity
-- Digital Public Infrastructure
-- Community Systems & Institutional Development
-- Emerging Technologies & Policy
+## Research Focus
 
+Neuroscience · Psychology · Biomechanics · Women's Reproductive Health · Athlete Wellness · Sports & Wellness Technology
 
-## Skills & Tools:
+Regional focus: **UAE & East Africa** (home bases) · **Spain & UK** (Europe) · **Brazil** — tracking women's football's history, current structures, and where technology is (and isn't yet) reaching the game.
 
-> Data, Research & Strategy :
-* Research Writing
-* Business Intelligence
-* Data Analysis
-* Dashboard Development
-* Data Storytelling
-* Systems Thinking
-* Innovation Strategy
-* Product Development
-* Strategic Communication
+## Skills & Tools
 
-> Technology :
-* Python
-* JavaScript
-* TypeScript
-* React
-* Next.js
-* FastAPI
-* PostgreSQL
+**Languages & Data:** Python, SQL (PostgreSQL, MySQL), Java, Dart, HTML/CSS/JavaScript
+**Frameworks & Platforms:** Flutter, FastAPI, SQLAlchemy, Git/GitHub
+**Analytics & Visualization:** Tableau, Excel (financial & performance modeling)
+**AI & Research Systems:** Computer vision (MediaPipe, OpenCV), retrieval-augmented generation (pgvector), LLM-assisted research workflows
+**Other:** Social media management & content strategy (SSEN Media), newsletter/publication editing, UX/UI basics (Figma, Canva)
 
-> AI & Emerging Technology :
-* LLM Applications
-* AI Adoption Strategy
-* Knowledge Management Systems
-* Retrieval-Augmented Generation (RAG)
-* Claude & OpenAI Workflows
-* Human-Centered AI
+## Recent Work
 
-> Design & Communication
-* UX/UI Design
-* Presentation Design
-* Information Architecture
-* Visual Storytelling
-* Technical Writing
-* Content Strategy
+- **Origin Inc. — "Creation"**: an AI-powered cardiovascular health app (F29SO Software Engineering group project, Heriot-Watt University Dubai) — full-stack build with an AI companion and gamification engine. Contributed to research, documentation, and the marketing strategy; → (https://github.com/IsaiasTBiju/creation_virtualhealthapp)
+- **SSEN & Thamani Labs** — designed and built both organizations' web platforms from scratch (HTML/CSS/JS)
+- **Recipe Management Application** — Java/PostgreSQL desktop app
 
-## Current Focus:
-- Building real-world analytics and research projects
-- Developing expertise in AI adoption and digital transformation
-- Learning full-stack product development through mission-driven projects
-- Creating research observatories focused on women, technology, and opportunity
-- Strengthening communication, leadership, and consulting skills
-- Publishing research, dashboards, articles, and case studies publicly
+## Philosophy
 
-## Philosophy:
+Technology should expand human potential, not replace it — and the most meaningful tools are the ones built by people who actually understand the problem from the inside. I'm not approaching female athlete science as an outsider studying the game; I've played it competitively for 14 years. That's the throughline across everything above.
 
-Technology should expand human potential, not replace it.
+## Open To
 
-The most meaningful innovations are those that strengthen communities, increase opportunity, improve access, and help people participate more fully in society.
-
-I believe the future belongs to people who can connect research, technology, infrastructure, and human needs into systems that create lasting impact.
-
-## Open To:
-* Research Assistant Opportunities
-* Analytics & Business Intelligence Internships
-* Digital Transformation Projects
-* Innovation & Strategy Roles
-* Public Interest Technology Initiatives
-* Women's Sports & Football Research Collaborations
-* Open Source Projects
-* Mentorship & Learning Opportunities
-
---- 
+- Junior-level Sports Analyst / Sports Engineer / Performance Analyst roles (UAE-based)
+- Research collaborations in women's football and female athlete science
+- Computer vision / biomechanics engineering opportunities
+- Open source contributions in sports analytics
+- Mentorship and learning opportunities
